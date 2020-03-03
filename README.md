@@ -6,7 +6,7 @@ These solution will cover up to, but not including, chapter 5 of the text book. 
 <br/>
 
 ![folder.gif](https://i.imgur.com/8bEei2O.gif "CPlusPlus")
-CS 2336 - Computer Science II (Java)
+CS 1337 - Computer Science I (C++)
 [![GitHub last commit](https://img.shields.io/github/last-commit/aaronmaynard/CPlusPlus.svg)]()
 <details>
 <summary>Textbook Info</summary>
